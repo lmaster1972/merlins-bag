@@ -4,3 +4,6 @@ This tiny project holds a fairly simple Bash script that I have found useful onc
 The only mandatory tool is **tar** or any compressor equivalent like *zip* or *7z*.
 
 P.S. This version consider root folder empty but also this may be arranged.
+
+# Credits
+https://superuser.com/questions/1125785/how-to-compress-all-subfolders-to-separate-files-in-bash
