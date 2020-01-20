@@ -3,7 +3,8 @@ This tiny project holds a fairly simple Bash script that I have found useful onc
 
 The only mandatory tool is **tar** or any compressor equivalent like *zip* or *7z*.
 
-P.S. This version consider root folder empty but also this may be arranged.
+P.S. It stores root folder files within 'root.tar.gz' archive
 
 # Credits
 https://superuser.com/questions/1125785/how-to-compress-all-subfolders-to-separate-files-in-bash
+https://deparkes.co.uk/2015/06/05/find-and-compress-files-in-linux/
